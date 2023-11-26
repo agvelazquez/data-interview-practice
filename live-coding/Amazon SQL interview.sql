@@ -27,7 +27,10 @@ insert into emp values(11,'Akhil',4000,1,31,500,'Ops','Male');
 -- Write an SQL query to find details of employees with 3rd highest salary in each department. 
 --In case there are less than 3 employees in a department then return employee details with lowest salary in that dep. 
 
--------------------------------------- AV Solution
+------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
+-------------------------------------- Agus Solution
 
 select count(distinct emp_id) from emp -- no repeated emp_id 
 select count(distinct emp_name) from emp -- no repeated emp_name 
