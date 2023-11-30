@@ -1,7 +1,7 @@
 <p align="center">  
 	<br>
 	<a href="https://theanalyticsnetwork.tech/">
-        <img width="90%" height="10%" src="/images/The%20Analytics%20Network.png?raw=true"> 
+        <img width="90%" height="10%" src="/images/The%20Analytics%20Network%20logo.png?raw=true"> 
     </a>
     <br>
     <br>
